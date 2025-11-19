@@ -23,6 +23,8 @@ a = np.array([[-2, 2, -3],[2, 1, -6],[-1, -2, 0]])
 eigenvalues, eigenvectors = np.linalg.eig(a)
 print(f"Eigen values are {eigenvalues} and Eigen Vectors are {eigenvectors}")
 ```
+
+
 ## Output:
 <img width="1264" height="835" alt="Screenshot 2025-11-19 135609" src="https://github.com/user-attachments/assets/e6eaaaf4-26e9-4add-82e7-ab1f01560a64" />
 
